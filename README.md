@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" height="30" alt="Android"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" height="30" alt="Canva" />
 </div>
