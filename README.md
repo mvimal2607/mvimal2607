@@ -1,19 +1,4 @@
 
-<!--
-**mvimal2607/mvimal2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi there 👋, I'm Vimal </h1>
 
 - 🌱 I’m currently learning AOSP
@@ -34,8 +19,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width=""12 />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="C">
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="30" alt="GitHub">
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" height="30" alt="Gitlab">
   <img width="12" />
