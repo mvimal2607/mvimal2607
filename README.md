@@ -29,3 +29,7 @@
 
 <a href="https://t.me/vimal2607"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
 <a href="https://mvimal2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+
+---
+
+![](https://visitcount.itsvg.in/api?id=mvimal2607&label=Profile%20Views%20%F0%9F%91%80&color=2&icon=0&pretty=false)
