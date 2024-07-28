@@ -3,9 +3,9 @@
 
 <h2><u>GitHub Stats:</u></h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvimal2607&show_icons=true&theme=chartreuse-dark&border_radius=15&locale=en" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvimal2607&show_icons=true&theme=midnight-purple&border_radius=15&locale=en" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvimal2607&theme=chartreuse-dark&border_radius=15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvimal2607&theme=midnight-purple&border_radius=15" /></p>
 
 <h2><u>KNOWN TECHSTACKS:</u></h2>
 
@@ -32,4 +32,4 @@
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=mvimal2607&label=Profile%20Views%20%F0%9F%91%80&color=2&icon=0&pretty=false)
+![](https://visitcount.itsvg.in/api?id=mvimal2607&label=Profile%20Views&color=12&icon=0&pretty=true)
