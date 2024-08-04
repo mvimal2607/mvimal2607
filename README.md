@@ -5,8 +5,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvimal2607&show_icons=true&theme=midnight-purple&border_radius=15&locale=en" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvimal2607&theme=midnight-purple&border_radius=15" /></p>
-
 <h2><u>KNOWN TECHSTACKS:</u></h2>
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=#A8B9CC)
