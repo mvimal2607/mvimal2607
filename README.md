@@ -34,9 +34,10 @@
 [![GitHub Sponsors](https://img.shields.io/badge/github%20sponsors-000000?style=for-the-badge&logo=githubsponsors&logoColor=#EA4AAA)](https://github.com/sponsors/mvimal2607)
 
 
-### • Downloads(My Projects):
+### • Downloads (My Projects):
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/yaap_lunaa/total?style=for-the-badge&labelColor=grey&color=blue)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/yaap_lunaa/total?style=for-the-badge&label=YAAP-VANILLA&color=dark%20green)
+![SourceForge Downloads (folder)](https://img.shields.io/sourceforge/dt/yaap-lunaa/lunaa?style=for-the-badge&label=YAAP-GAPPS&color=dark%20green)
 
 ### • Profile Views:
 
