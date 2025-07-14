@@ -27,11 +27,12 @@
 
 <a href="https://t.me/mvimal2607"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
 <a href="https://mvimal2607@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mvimal2607?style=for-the-badge)
+<a href="https://x.com/mvimal2607"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/mvimal2607?style=for-the-badge">
 
 ## • Liked my Work?
 [![PayPal](https://img.shields.io/badge/PAYPAL-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vimal2607)
 [![GitHub Sponsors](https://img.shields.io/badge/github%20sponsors-000000?style=for-the-badge&logo=githubsponsors&logoColor=#EA4AAA)](https://github.com/sponsors/mvimal2607)
+
 
 ### • Downloads(My Projects):
 
