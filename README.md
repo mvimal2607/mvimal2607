@@ -38,5 +38,5 @@
 
 ### • Profile Views:
 
-![profile-views](https://komarev.com/ghpvc/?username=mvimal2607&label=Spectators&color=blueviolet)
+![GitHub watchers](https://img.shields.io/github/watchers/mvimal2607/mvimal2607?style=for-the-badge)
 
