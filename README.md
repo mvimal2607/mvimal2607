@@ -14,6 +14,7 @@
 ![Android](https://img.shields.io/badge/Android--Open--Source--Project-3BBF7A?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft--azure-0067B8?style=for-the-badge&logo=icloud&logoColor=white)
+![AWS](https://img.shields.io/badge/amazon--web--services-E34F26?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-F0F0F0?style=for-the-badge&logo=github&logoColor=black)
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -33,11 +34,10 @@
 [![PayPal](https://img.shields.io/badge/PAYPAL-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vimal2607)
 [![GitHub Sponsors](https://img.shields.io/badge/github%20sponsors-000000?style=for-the-badge&logo=githubsponsors&logoColor=#EA4AAA)](https://github.com/sponsors/mvimal2607)
 
-
 ### • Downloads (My Projects):
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/yaap_lunaa/total?style=for-the-badge&label=YAAP-VANILLA&color=dark%20green)
-![SourceForge Downloads (folder)](https://img.shields.io/sourceforge/dt/yaap-lunaa/lunaa?style=for-the-badge&label=YAAP-GAPPS&color=dark%20green)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/yaap_lunaa/total?style=for-the-badge&label=YAAP-VANILLA&color=blue)
+![SourceForge Downloads (folder)](https://img.shields.io/sourceforge/dt/yaap-lunaa/lunaa?style=for-the-badge&label=YAAP-GAPPS&color=blue)
 
 ### • Profile Views:
 
