@@ -34,8 +34,7 @@
 
 ### • Downloads(My Projects):
 
-![YAAP_lunaa (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/YAAP_lunaa/total)
-[![Download YAAP-lunaa](https://img.shields.io/sourceforge/dt/yaap-lunaa.svg)](https://sourceforge.net/projects/yaap-lunaa/files/latest/download)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mvimal2607/yaap_lunaa/total?style=for-the-badge)
 
 ### • Profile Views:
 
