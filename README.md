@@ -35,7 +35,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ## • Liked my Work?
-[![PayPal](https://img.shields.io/badge/PAYPAL-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vimal2607)
 [![GitHub Sponsors](https://img.shields.io/badge/github%20sponsors-000000?style=for-the-badge&logo=githubsponsors&logoColor=#EA4AAA)](https://github.com/sponsors/mvimal2607)
 
 ### • Profile Views:
